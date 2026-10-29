@@ -1,6 +1,6 @@
 {
-    "name": "projeto_mobile",
-    "short_name": "projeto_mobile",
+    "name": "oficina_automotiva",
+    "short_name": "oficina_automotiva",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
